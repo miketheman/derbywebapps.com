@@ -3,8 +3,6 @@
 This is a space to list links to items throughout the derbyverse.
 Please use alphabetic sorting when adding items to lists.
 
-Source is located on [GitHub](https://github.com/miketheman/derbywebapps.com/blob/main/source/README.md).
-
 ## Associations
 Organizations that provide sanctioning and/or rules for large groups of roller derby play.
 
